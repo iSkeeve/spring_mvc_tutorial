@@ -1,1 +1,10 @@
 target/
+
+# Idea project files
+.idea
+*.iml
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+
